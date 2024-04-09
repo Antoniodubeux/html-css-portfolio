@@ -1,0 +1,20 @@
+/* h1, h2, h3, h4, h5, h6 {
+    color: rgb(0, 4, 255);
+    font-size: 32px;
+} */
+
+h1 {
+    font-size: 36px;
+}
+
+h2, h3 {
+    font-size: 24px;
+}
+
+body {
+    background: gray;
+}
+
+img {
+    max-width: 300px;
+}
